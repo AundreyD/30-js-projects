@@ -1,0 +1,7 @@
+HTML5 Viewer
+  -Add fullscreen button
+Tapas Menu
+  -Add X to delete item ❌
+  -Add Remove all button ➖
+  -Add Check all button ✅
+  -Add uncheck all button ➖✔️
