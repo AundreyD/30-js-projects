@@ -5,3 +5,5 @@ Tapas Menu
   -Add Remove all button ➖
   -Add Check all button ✅
   -Add uncheck all button ➖✔️
+Flex Panel Gallery
+  -Reduce padding so animation comes quicker
