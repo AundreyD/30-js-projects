@@ -1,0 +1,10 @@
+-Array.from
+-Arrow Functions in depth
+-fetch
+-Array.includes()
+-Flexbox
+-Window functions(movement)
+-Object.assign()
+-innerHTML
+-Spread Operator
+-ES6 destructuring
