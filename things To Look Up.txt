@@ -8,3 +8,7 @@
 -innerHTML
 -Spread Operator
 -ES6 destructuring
+-addEventListener
+  -Caputure
+  -event.stopPropagation()
+  -Once
